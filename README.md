@@ -3,8 +3,11 @@
 🌌 **Computer Scientist** | 🚀 **Compiler Enthusiast** | 🌙 **Moonbit Evangelist**
 
 🎓 **Master's Graduate** from North Carolina State University (Computer Science)
+
 🔍 **Research Focus**: Programming Languages Design & Implementation
+
 💼 Currently: **Compiler Engineer @ IDEA Moonbit Team**
+
 🔧 Previously: **Senior Compiler Engineer @ Cambricon**
 
 **Tech Toolkit**: `Moonbit` • `C++` • `Rust` • `OCaml` • `Python` •`Haskell` • `LLVM` 🛠️
