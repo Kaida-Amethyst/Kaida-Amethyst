@@ -16,9 +16,9 @@
 
 ## Featured Projects 🌟
 
-🦄 [Moonbit-LLVM](https://github.com/Kaida-Amethyst/moonbit-llvm) : Official LLVM bindings for Moonbit language development
+🦄 [llvm.mbt](https://github.com/Kaida-Amethyst/moonbit-llvm) : Official LLVM bindings for Moonbit language development
 
-➕ [Moonbit-Math](https://github.com/Kaida-Amethyst/Moonbit-Math): Pure Moonbit implementation of mathematical algorithms and data structures
+➕ [math.mbt](https://github.com/Kaida-Amethyst/Moonbit-Math): Pure Moonbit implementation of mathematical algorithms and data structures
 
 🐍 [python.mbt](https://github.com/Kaida-Amethyst/python.mbt): Bidirectional interoperability layer between Moonbit and Python runtime
 
